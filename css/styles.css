@@ -66,12 +66,12 @@ body {
 /* END HEADER */
 
 h1 {
-  text-align: center;
+  /*text-align: center;*/
   color: black;
 }
 
 h2 {
-  text-align: center;
+  /*text-align: center;*/
   color: white;
   margin-bottom: 20px;
   font-size: 1.3em;
